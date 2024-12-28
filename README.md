@@ -67,6 +67,7 @@
   </a> 
 </p>
 
+<h3>My Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risnand&show_icons=true&locale=en&layout=compact" alt="risnand" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risnand&show_icons=true&locale=en" alt="risnand" /></p>
